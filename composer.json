@@ -1,8 +1,8 @@
 {
-    "name": "illagrenan/framework-sandbox",
+    "name": "illagrenan/nette-framework-sandbox",
     "description": "The framework sandbox is a pre-packaged Nella Framework project, basic configured structure for your application.",
     "keywords": ["framework", "mvc", "debugging", "templating", "database", "dbal", "forms", "latte", "neon", "doctrine", "media"],
-    "homepage": "http://nellafw.org",
+    "homepage": "https://github.com/illagrenan/nette-framework-sandbox",
     "license": ["BSD-3", "GPLv2", "GPLv3"],
     "authors": [
         {
@@ -13,6 +13,10 @@
         {
             "name": "Nella Project",
             "homepage": "http://nella-project.org"
+        },
+        {
+            "name": "Vašek Dohnal",
+            "homepage": "http://www.vaclavdohnal.cz"
         }
     ],
     "config": {
