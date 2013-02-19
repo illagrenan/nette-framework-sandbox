@@ -1,0 +1,10 @@
+parameters:
+		database:
+				driver:
+					nette: mysql
+					doctrine: pdo_mysql
+				host: localhost
+				dbname: ***
+				user: root
+				password: ***
+				charset: utf8

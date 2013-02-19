@@ -24,6 +24,11 @@
         "doctrine/common": "2.3.*@rc",
         "doctrine/dbal": "2.3.*@rc",
         "doctrine/orm": "2.3.*@rc",
-        "doctrine/migrations": "@dev"
+        "doctrine/migrations": "@dev",
+        "JanMarek/WebLoader": "dev-master",
+        "jms/serializer": "1.0.*@dev",
+        "tijsverkoyen/css-to-inline-styles": "dev-master",
+        "dg/ftp-deployment": "dev-master",
+        "kdyby/forms-replicator": "@dev"
     }
 }
