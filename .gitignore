@@ -4,3 +4,4 @@
 /app/config/*
 !/app/config/config.neon
 !/app/config/database_dev.neon
+composer.lock
