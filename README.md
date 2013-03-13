@@ -1,4 +1,4 @@
-Nella Framework's Sandbox
+illagrenan/nette-framework-sandbox (via Nella Framework's Sandbox)
 =========================
 
 Nella Framework is a powerful Nette Framework overlay for creating web applications and services in PHP 5.3. Nella Framework is designed with simplicity, speed and flexibility in mind. It allows developers to easy built better websites.
