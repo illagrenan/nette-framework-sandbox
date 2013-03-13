@@ -21,7 +21,7 @@ Installation
 
 **Via composer**
 
-- `composer create-project nella/framework-sandbox yourProjectName` where _yourProjectName_ is path to directory where your app is created.
+- `composer create-project illagrenan/nette-framework-sandbox yourProjectName` where _yourProjectName_ is path to directory where your app is created.
 
 **Via package**
 
