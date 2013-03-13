@@ -1,4 +1,4 @@
-illagrenan/nette-framework-sandbox (via Nella Framework's Sandbox)
+illagrenan/nette-framework-sandbox
 =========================
 Installation
 ------------
